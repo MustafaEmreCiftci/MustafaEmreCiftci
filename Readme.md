@@ -1,5 +1,3 @@
 ### **Hey there**
 
-![Mustafa Emre Çiftçi](https://user-images.githubusercontent.com/60289215/143676642-77686c1a-168b-40ba-bb1e-ae0819ca1b94.gif)
-
-
+![Mustafa Emre Çiftçi](https://user-images.githubusercontent.com/60289215/143676754-fd7eb3c9-4e22-4fd9-93af-e8014349b321.gif)
