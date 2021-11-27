@@ -1,4 +1,6 @@
-<img align: "left" width="400" height="400" style="background-color: transparent;" src="https://user-images.githubusercontent.com/60289215/143677417-440c91df-3644-4bde-9d144cf61d0ac411.gif"/>
-  
-<h3>Hey there</h3>
-<h4>I'm Mustafa Emre Çiftçi, a passionate self-taught developer from Turkey. </h4>
+<div>
+  <img align: "left" width="400" height="400" style="background-color: transparent;" src=""/>
+
+  <h3>Hey there</h3>
+  <h4>I'm Mustafa Emre Çiftçi, a passionate self-taught developer from Turkey. </h4>
+</div>
